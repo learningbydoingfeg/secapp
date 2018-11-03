@@ -3,15 +3,20 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
+.navtitle{
+	color:#e8e0d1;
+}
+
 .navbar-link{
-	color:#22408c;
+	color:#72968c;
 }
 
 .navbar-link:hover{
-		color:#ce2028;
-	}
+		color:#dfbfa9;
+}
 
 
-a{
-	color:#22408c;
+#map{
+	width:100%;
+	min-height:630px
 }
